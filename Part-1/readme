@@ -1,0 +1,24 @@
+Command Line Arguments
+make
+java ExamTester
+
+
+No user input is needed in-order to run this program. This program already
+contains questions that are hardcoded in the ExamTester.java file along with
+answers, which already selects one for each.
+If the user would like to select a different answer for question. Look for the
+following:
+
+//
+// Choosing an answer.
+// selectedAnswer(#) - between 1-5
+// getQuestion(#) - between 1-4
+//
+
+After running the program, it will out the exam, score on each question, and
+score on the exam.
+
+If the user would like to change the hardcoded questions or add their own. You
+can do the following:
+1) Change existing questions and its answers, along with the values.
+2) Add their own appropriately
