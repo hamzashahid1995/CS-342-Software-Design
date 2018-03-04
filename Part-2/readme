@@ -1,0 +1,19 @@
+Command Line Arguments
+make
+java ExamTester
+
+In the following program, user input is required. For multiple choice questions
+user is asked to input 'a','b','c','d' or 'e', and for short answer questions
+user is asked to input an answer. This program already contains questions that
+are hardcoded in the ExamTester.java. By default user is asked to answer all the
+questions since the line in ExamTester.java 'exam1.getAnswerFromStudent(-1);'
+has a negative parameter which means user will be asked to answer all the
+questions.
+
+After inputting, the user will get a score on the exam. All the functions and
+what they do have been explained in the program above each function.
+
+If the user would like to change the hardcoded questions or add their own. You
+can do the following:
+1) Change existing questions and its answers, along with the values.
+2) Add their own appropriately
