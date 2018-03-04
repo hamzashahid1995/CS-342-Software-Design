@@ -6,6 +6,7 @@
 public class Answer
 {
     private String answer;
+    private Boolean selected;
     private double isSelected;
     private double unSelected;
 
