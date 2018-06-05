@@ -1,0 +1,12 @@
+Command Line Arguments
+make
+java ExamTester
+
+In the following program, a file with the name 'exam.txt' is loaded and then user 
+is asked to enter their name. After that the contents of the 'exam.txt' file are 
+outputted into the console. The user is then one by one asked to answer the questions 
+contained in the file ranging from short answer, multiple choice, multiple choice multiple 
+answers. A dafualt 'exam.txt' file is provided. After user finishes the exam, score 
+for each question and total score is displayed. Lastly, it then creates two .txt files called 
+'answers.txt' which stores the user's answers and 'shuffled.txt' which has the questions 
+from the exam.txt file shuffled. 
