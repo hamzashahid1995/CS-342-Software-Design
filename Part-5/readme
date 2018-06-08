@@ -1,0 +1,48 @@
+Taj Atassi ExamBuilderGUI.java
+ExamBuilderGUI is a Java swing application that is designed to build an exam
+and show you how it appears. You can load an exam and add different types of
+questions to the exam, shuffle it and export it to the format specified. You
+can add and remove questions from the exam with ease, print the exam, and
+save it to a location of your choosing.
+
+
+Hamza Shahid ExamGraderGUI.java
+In the following program, user is first asked to load a shuffled exam file.
+After that, a window is displayed with multiple buttons that the user can
+interact with. After user successfully loads a shuffled exam file, user then
+has to press 'Load Answer File' button which will load the student answers to
+the shuffled exam that was loaded earlier. After that user can press the button
+'Print' which will print the score that the student got on each question along
+with the total score as well as the shuffled exam. The user can then either
+press 'Save to CSV' or 'Save to XLS' depending on how they want to save the
+file.
+
+
+Joshua Herman ExamTakerGUI.java
+ExamTakerGUI is a Java swing application with the main functions of loading an
+exam,  taking an exam, and saving an exam. The GUI will load an exam from the
+user and prompt them for their name. Once completed the user has a choice of 7
+buttons which allow them to: quit the exam, load an exam, get the directions
+for taking the exam, skipping a question until the end of the exam, answering
+a question, changing the answer of a question, and saving the answer to a .txt
+file. When the exam is loaded the user will see the entire exam in a text box.
+To load an exam find the .txt file on your computer and select it. Directions
+for taking the exam are stated within the Directions button. To skip a
+question it will prompt you what question you want to skip and then you will
+see in real time in the  text box what question you skipped until the end. To
+answer a question it will ask you what question you would like to answer, then
+there are 4 possibilities of question to answer. For a numerical question
+answer with a hundreth precision decimal value, for a short answer question
+answer with a string of text, for a multiple choice single answer question answer
+with the letter you choose for this question in text, for a multiple choice
+multiple answer question answer with every letter you choose each separated by
+a space. In order to change and answer press the Change Answer button and then
+choose which answer you want to change then follow it by the new answer. To
+save the answers you have put in so far ( changed answers will be only the most
+recent answer you placed) press the save answers button and the user can choose
+a .txt file they want to put it in. Lastly, if you want to quit the program
+just press quit exam.
+
+To run the program follow the dialogs and  choose a .txt file that has the
+format supplied on homework 4. We have included a sample exam and answer file
+for you to use.
