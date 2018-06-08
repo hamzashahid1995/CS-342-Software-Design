@@ -1,0 +1,24 @@
+Command Line Arguments
+make
+java ExamBuilder/java ExamTaker/java ExamGrader
+
+This program consists of group work where each group member was responsible for a 
+one of the three applications.
+
+The following program creates three applications. An ExamBuilder which is used by
+instructors to create and modify exams. An ExamTaker which used by students to take 
+an exam and record their answers, and an ExamGrader which is used by an instructor to 
+evaluate each student's answers and determine its score. 
+
+The ExamBuilder application presents the user with a menu of choices such as: load an 
+exam, add questions to exam, remove questions, reorder questions/answers, print the exam,
+and save the exam.
+
+The ExamTaker gets the user information, loads an arbitrary exam file, gets the answers 
+from the user, allows user to skip a question and come back to it later, and even allows 
+to change a answer. After successfully taking the exam and answering the questions, a 
+'answers.txt' file is created which saves the answers. 
+
+The ExamGrader loads an exam file and an answer file, evaluates the answers, and then 
+reports the results to the screen. It also stores the results to a CSV file with 
+Student identity, total score, and scores for each question.

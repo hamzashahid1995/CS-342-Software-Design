@@ -1,0 +1,33 @@
+Sample Exam Title
+
+SAQuestion
+5.0
+What OO principle is implemented with private variables?
+Information Hiding
+
+MCSAQuestion
+5.0
+What do you put on a peanut butter and jelly sandwich?
+5
+0.5 Peanut butter
+0.5 Jelly
+1.0 Peanut butter and jelly
+0.0 Onions
+0.0 Horseradish
+
+MCMAQuestion
+5.0
+Who went to Hogwarts?  Circle all that apply:
+0.4
+5
+0.2 Harry Potter
+0.2 Rubeus Hagrid
+-0.2 Princess Leia
+-0.2 Bilbo Baggins
+0.2 Tom Riddle
+
+NumQuestion
+5.0
+What is the area of a circle with a radius of 3.66?
+42.08
+0.1
